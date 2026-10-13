@@ -2,3 +2,8 @@ bin/
 obj/
 *.user
 .vs/
+
+# секреты — никогда не коммитить
+tokens.txt
+*.token
+.env
