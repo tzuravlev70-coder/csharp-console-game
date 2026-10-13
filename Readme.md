@@ -25,7 +25,7 @@ dotnet run
 
 В [.vscode/for.code-snippets](.vscode/for.code-snippets) лежат шаблоны цикла:
 
-- `for` → `for (int i = 0; i < 0; i++) { }`
+- `fori` → `for (int i = 0; i < 0; i++) { }`
 - `forj` → то же самое с `j`, для вложенного цикла
 
 Набираешь префикс и жмёшь Tab дважды.
