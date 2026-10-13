@@ -1,4 +1,4 @@
-﻿Console.CursorVisible = false;
+﻿﻿Console.CursorVisible = false;
 
 
 char[,] map =
@@ -87,4 +87,3 @@ while (true)
     Console.Clear();
 
 }
-
